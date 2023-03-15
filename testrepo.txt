@@ -1,2 +1,2 @@
-ABCDEFG
+print(ABCDEFG)
 202200340  구태호 컴퓨터공학과
