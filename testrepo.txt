@@ -1,4 +1,8 @@
-print(ABCDEFG)
-202200340  구태호 컴퓨터공학과
-fork 후 수정함.
-원본수정1
+#include <stdio.h>
+
+int main() {
+  printf("ABCDEFG");
+  //202200340  구태호 컴퓨터공학과
+  //fork 후 수정함.
+  //원본수정2
+}
